@@ -1,0 +1,1 @@
+A CNN-class implementation with basic tensorflow api which contains alexnet, VGG-net and Resnet34 architectures. The implementation is intended to have access to individual layers of network though recursive methods can be used to initialize layers. 
